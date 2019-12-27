@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+figures/
 build/
 develop-eggs/
 dist/
